@@ -6,6 +6,6 @@
     - insert(item)  
     - remove(item)  
     - size()  
-     -print()  
+    - print()  
 - The nodes are inserted in increasing order in insert(item) function  
 - print() prints all the items in the Linked List on each line  

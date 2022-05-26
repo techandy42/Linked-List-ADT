@@ -1,6 +1,6 @@
 # Linked-List-ADT
 - This is a singly linked list ADT written in Typescript  
-It supports the following functions:  
+- It supports the following functions:  
     - addFront(item)  
     - removeFront()  
     - insert(item)  
